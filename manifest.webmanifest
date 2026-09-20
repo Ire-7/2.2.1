@@ -1,0 +1,14 @@
+{
+  "name":"gyr · 北京最后一个秋冬",
+  "short_name":"北京秋冬",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f2e8dc",
+  "theme_color":"#f7efe5",
+  "description":"gyr 的北京最后一个秋冬 · 私人生活档案",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
